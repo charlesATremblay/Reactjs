@@ -7,7 +7,6 @@ The bark property is a method which return woof woof
 5. Set new properties the dog object: breed, getDogInfo
 */
 
-
 const dog={
     name:'Gimli',
     legs: 4,
